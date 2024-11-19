@@ -20,7 +20,7 @@ $httpMethod = 'POST';
 
 // body
 $body = [
-     "merchantId" => "XXXX"
+     "merchantId" => "121xxxx"
 ];
 
 // Headers

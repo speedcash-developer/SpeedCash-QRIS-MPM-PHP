@@ -20,7 +20,7 @@ $httpMethod = 'POST';
 
 // body
 $body = [
-    "merchantId" => "XXXX",
+    "merchantId" => "121xxxx",
     "serviceCode" => "47",
     "additionalInfo"  => [
         "qrId"  => "19783090"

@@ -25,11 +25,11 @@ function send() {
             'currency' => 'IDR'
         ],
         'additionalInfo' => [
-            'nmid' => '3214123213',
+            'nmid' => 'ID321412xxxx',
             'terminalId' => 'A01',
             'qrisId' => '10099768',
             'issuerReff' => '21412XXXX',
-            'buyyerReff' => 'rosidi dragon',
+            'buyyerReff' => 'Rosidi Dragons',
             'brandName' => 'GOPAY',
             'transactionDate' => '2024-10-31T11:00:32+07:00',
             'rrn' => '00000530XXXX',
@@ -38,9 +38,9 @@ function send() {
             'feeAdmin' => '0',
             'typeQr' => 'dynamic',
             'description' => 'Pembayaran makan siang',
-            'merchantId' => 'XXXX',
-            'issuerId' => 'XXXX',
-            'acquirerId' => 'XXXX'
+            'merchantId' => '121xxxx',
+            'issuerId' => '9360xxxx',
+            'acquirerId' => '9360xxxx'
         ]
     ];
 

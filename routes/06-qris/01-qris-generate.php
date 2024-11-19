@@ -29,7 +29,7 @@ $body = [
         'value' => '1000.00',
         'currency' => 'IDR'
     ],
-    'merchantId' => "XXXX",
+    'merchantId' => "121xxxx",
     'validityPeriod' => "2024-10-18T14:49:25+07:00", 
     'additionalInfo' => [
         'feeType' => "1", 

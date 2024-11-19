@@ -22,7 +22,7 @@ $httpMethod = 'POST';
 $body = [
     "idQr" => "10099501",
     "additionalInfo" =>  [
-        "merchantId" =>  "XXXX"
+        "merchantId" =>  "121xxxx"
     ]
 ];
 

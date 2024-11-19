@@ -22,9 +22,9 @@ try {
     }
     // Prepare form data
     $formData = [
-        'merchantId' => 'XXXX',
+        'merchantId' => '121xxxx',
         'type' => 'ktp',
-        'no_ktp' => '123456789032XXXX',
+        'no_ktp' => '123456789032xxxx',
         'img' => new CURLFile($imagePath)
     ];
     // Prepare data for signature

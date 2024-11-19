@@ -20,7 +20,7 @@ $httpMethod = 'POST';
 
 // body
 $body = [
-     "notelp_pemilik" => "6281200XXXXX"
+     "notelp_pemilik" => "6281200xxxxx"
 ];
 
 // Headers

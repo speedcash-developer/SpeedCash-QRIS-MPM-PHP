@@ -1,10 +1,10 @@
 <?php
 /**
- * API Import Bank
- * Service ini digunakan untuk melakukan import bank merchant
+ * API Qris Generate
+ * Service ini di gunakan untuk melihat terminalId yang telah di generate merchant
  * 
  * Referensi:
- * API Documentation: https://qris-mpm-docs.speedcash.co.id/docs/payments/qris-mpm/bank/Import%20Bank
+ * API Documentation: https://qris-mpm-docs.speedcash.co.id/docs/payments/qris-mpm/QRIS/Qris%20Terminal%20List
  */
 
 require_once __DIR__ . '/../../config/config.php';
@@ -15,17 +15,12 @@ require_once __DIR__ . '/../../service/sender.php';
 require_once __DIR__ . '/../../auth/signature.php';
 
 
-$path = '/bank/import';
+$path = '/qr/qr-terminal-list';
 $httpMethod = 'POST';
 
 // body
 $body = [
-  "merchantId" =>  "121xxxx",
-  "kode_bank" =>  "008",
-  "nama_bank" => "MANDIRI",
-  "cabang_bank" => "rungkut",
-  "an_rekening" =>  "tos",
-  "no_rekening" => "432112345xxxx"
+    'merchantId' => "121xxxx",
 ];
 
 // Headers

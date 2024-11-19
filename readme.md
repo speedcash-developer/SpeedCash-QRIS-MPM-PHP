@@ -69,3 +69,9 @@ php routes/01-credentials/access-token.php
 ``` bash
 php routes/02-registrasi/merchant-status.php
 ```
+
+### Execution Callback Payment Transaction
+
+``` bash
+php -S localhost:3000 routes/07-callback/01-qr-notify.php & sleep 2 && php routes/07-callback/01-qr-notify.php; kill $!
+```

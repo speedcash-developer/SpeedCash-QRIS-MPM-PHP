@@ -22,7 +22,7 @@ $httpMethod = 'POST';
 $body = [
     "billNumber" => "20241018083212584",
     "additionalInfo" =>  [
-        "merchantId" =>  "XXXX"
+        "merchantId" =>  "121xxxx"
     ]
 ];
 

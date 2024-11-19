@@ -20,9 +20,9 @@ $httpMethod = 'POST';
 
 // body
 $body = [
-    "merchantId" => "XXXX",
+    "merchantId" => "121xxxx",
     "kode_bank" => "008",
-    "no_rekening" =>"432112345434123"
+    "no_rekening" => "432112345xxxx"
 ];
 
 // Headers

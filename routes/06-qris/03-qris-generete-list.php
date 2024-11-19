@@ -22,7 +22,7 @@ $httpMethod = 'POST';
 $body = [
     "dateGenerate" => "2024-10-17T00:00:00+07:00",
     "additionalInfo" => [
-        "merchantId" => "XXXX"
+        "merchantId" => "121xxxx"
     ]
 ];
 

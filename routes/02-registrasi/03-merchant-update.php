@@ -22,9 +22,9 @@ $httpMethod = 'POST';
 $body = [
     "nama_pemilik" =>  "rosidi dragon",
     "nama_outlet" => "rosididragon store",
-    "notelp_outlet" => "6281200XXXXX",
+    "notelp_outlet" => "6281200xxxxx",
     "email_outlet" => "rosididragon@gmail.com",
-    "nik" => "292828182832XXXX",
+    "nik" => "292828182832xxxx",
     "kewarganegaraan" =>  "ID",
     "id_provinsi_pemilik" => "29",
     "id_kota_pemilik" => "251",
@@ -43,7 +43,7 @@ $body = [
     "mcc" => "5812",
     "npwp" => "0",
     "is_onlineshop" =>  0,
-    "merchantId" => "1213760"
+    "merchantId" => "121xxxx"
 ];
 
 // Headers

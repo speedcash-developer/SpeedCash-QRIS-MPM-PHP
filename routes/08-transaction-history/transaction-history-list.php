@@ -25,7 +25,7 @@ $body = [
     'pageSize' => "2024-10-18T14:49:25+07:00", 
     'pageNumber' => "0", 
     'additionalInfo' => [
-        'merchantId' => "1212667", 
+        'merchantId' => "121xxxx", 
     ]
 ];
 
