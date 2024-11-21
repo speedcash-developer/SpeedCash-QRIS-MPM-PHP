@@ -5,7 +5,7 @@ Effortlessly integrate SpeedCash’s QRIS capabilities into your PHP projects wi
 
 📂 Code Samples Included: This repository comes with sample code for each essential API endpoint, so you can jump right in and start building.
 
-💡 Explore the Docs: Find detailed documentation and examples in our API Docs for a seamless setup and to make the most of SpeedCash in your application.
+💡 Explore the Docs: Find detailed [documentation](https://qris-mpm-docs.speedcash.co.id/docs/category/qris-mpm) and examples in our API Docs for a seamless setup and to make the most of SpeedCash in your application.
 
 Get started now and make cashless payments smoother and faster with SpeedCash!
 
